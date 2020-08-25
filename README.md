@@ -14,9 +14,9 @@ Experiments and implementations of Reinforcement Learning algorithms:
 
 5. [TD_LSTD_vF.ipynb](https://github.com/c-maine/Reinforcement-Learning/blob/master/TD_LSTD_vF.ipynb) is an implementation of the Temporal Difference and Least Squares Temporal Difference Learning algorithms. 
 
-**Example experiment**
+**Example**
 
-The image below is taken from the [Bayesian_optimisation_vF.ipynb](https://github.com/c-maine/Reinforcement-Learning/blob/master/Bayesian_optimisation_vF.ipynb) and is a 3D visualisation of the Branin Hoo function.
+The image below is taken from the [Bayesian_optimisation_vF.ipynb](https://github.com/c-maine/Reinforcement-Learning/blob/master/Bayesian_optimisation_vF.ipynb) and is a 3D visualisation of the Branin Hoo function on which Bayesian optimisation is performed.
 
 ![alt text](https://github.com/c-maine/Reinforcement-Learning/blob/master/brian-hoo.png)
 
