@@ -1,6 +1,7 @@
 # Reinforcement-Learning
 
 **Structure of this repo**
+
 Experiments and implementations of Reinforcement Learning algorithms:
 
 1. [Value_iteration_vF.ipynb](https://github.com/c-maine/Reinforcement-Learning/blob/master/Value_iteration_vF.ipynb) is an implementation of the Value Iteration for the Gambler's Problem (Exercise Reinforcement Learning: an Introduction, 2nd edition" by Sutton & Barto (2018)
