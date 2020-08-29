@@ -14,7 +14,7 @@ Experiments and implementations of Reinforcement Learning algorithms:
 
 5. [TD_LSTD_vF.ipynb](https://github.com/c-maine/Reinforcement-Learning/blob/master/TD_LSTD_vF.ipynb) is an implementation of the Temporal Difference and Least Squares Temporal Difference Learning algorithms. 
 
-6. [Cartpole problem](https://github.com/c-maine/Reinforcement-Learning/blob/master/cartpole.ipynb) is the classic binary classification problem, also called the inverted pendulum.
+6. [Cartpole.ipynb](https://github.com/c-maine/Reinforcement-Learning/blob/master/cartpole.ipynb) is the classic cartpole binary classification problem for reinforcement learning, also called the inverted pendulum.
 
 **Example**
 
