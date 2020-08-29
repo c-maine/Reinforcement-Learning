@@ -14,6 +14,8 @@ Experiments and implementations of Reinforcement Learning algorithms:
 
 5. [TD_LSTD_vF.ipynb](https://github.com/c-maine/Reinforcement-Learning/blob/master/TD_LSTD_vF.ipynb) is an implementation of the Temporal Difference and Least Squares Temporal Difference Learning algorithms. 
 
+6. [Cartpole problem](https://github.com/c-maine/Reinforcement-Learning/blob/master/cartpole.ipynb) is the classic binary classification problem, also called the inverted pendulum.
+
 **Example**
 
 The image below is taken from the [Bayesian_optimisation_vF.ipynb](https://github.com/c-maine/Reinforcement-Learning/blob/master/Bayesian_optimisation_vF.ipynb) and is a 3D visualisation of the Branin Hoo function on which Bayesian optimisation is performed.
